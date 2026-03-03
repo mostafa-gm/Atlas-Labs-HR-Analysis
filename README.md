@@ -19,7 +19,7 @@ Dim_Educationlevel: (Sub-dimension to Employee).
 
 Dim_Ratinglevel & Dim_Satisfiedlevel: Lookup tables for categorical scoring.
 
-![Schema](images/Schema.png)
+<img width="1562" height="847" alt="Image" src="https://github.com/user-attachments/assets/826b359f-2ed0-4777-a61f-c94587720165" />
 
 ## 📊 Dashboard Pages
 ### 1. Overview: Executive Summary
@@ -33,7 +33,7 @@ Departmental Split: Technology leads the company in headcount.
 
 Key Insight: 2020 was a volatile year with the highest raw attrition count (28 people).
 
-![Alt text](images/Overview.png)
+<img width="1513" height="847" alt="Image" src="https://github.com/user-attachments/assets/f393c871-2320-4dd7-b0eb-708711bb878d" />
 
 ### 2. Demographics: Diversity & Inclusion
 - Analyzes the makeup of the workforce.
@@ -44,7 +44,7 @@ Marital Status: 42.45% of the workforce is married.
 
 Equity Analysis: A dual-axis chart comparing Ethnicity to Average Salary shows that White employees represent the largest group and the highest salary bracket.
 
-![Alt text](images/demographics.png)
+<img width="1513" height="849" alt="Image" src="https://github.com/user-attachments/assets/87f950be-986c-4e79-8ac1-1918d2445d32" />
 
 ### 3. Performance Tracker: Individual Deep Dive
 - A specialized page for managers to review specific employee histories using a Slicer by Employee Name.
@@ -55,7 +55,7 @@ Satisfaction Metrics: 6 Line charts tracking Job, Relationship, Environment, and
 
 Technical Implementation: Utilized USERELATIONSHIP and Inactive Relationships to toggle between different satisfaction categories within a single dimension.
 
-![Alt text](images/Performance.png)
+<img width="1512" height="856" alt="Image" src="https://github.com/user-attachments/assets/9ac2085e-d1a3-42f3-a73e-65342fdfd027" />
 
 ### 4. Attrition: Risk Factor Analysis
 - Identifying why people leave.
@@ -72,7 +72,7 @@ Overtime: Employees working overtime show a 30.53% attrition rate.
 
 Tenure: New hires (1 year at company) are the most vulnerable, with a 34.46% attrition rate.
 
-![Alt text](images/attrition.png)
+<img width="1510" height="850" alt="Image" src="https://github.com/user-attachments/assets/53407f45-30fc-4cae-855a-f415fca80a44" />
 
 
 ### 🚀 Key Learning Points
